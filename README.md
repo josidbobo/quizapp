@@ -1,4 +1,4 @@
-# maxmiller_flutter_quizapp
+# Flutter Quiz App
 
 A new Flutter project.
 
